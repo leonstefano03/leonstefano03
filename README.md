@@ -1,7 +1,7 @@
-![GIF](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
 
 <div align="center">
- 
+ ![GIF](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
+
 <h1 align="center">Hola, soy Leon Stefano👋</h1>
 </div>
 
