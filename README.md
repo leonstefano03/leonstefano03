@@ -4,7 +4,7 @@
  ![GIF](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
 
 <h1 align="center">Hola! soy Leon Stefano👋</h1>
-<h2 align="center">Bienvenidos a mi GitHub</h2>
+<h2 align="center">⭐Bienvenidos a mi GitHub⭐ </h2>
 </div>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
@@ -14,14 +14,14 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+28k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+⭐Desarrollador PERN Full Stack.
+⭐Graduado de bootcamp intensivo: Completo más de 800 horas en un programa de 4 meses.
+⭐Enfoque en calidad del código.
+⭐Experiencia práctica en herramientas innovadoras: Trabajo con tecnologías como React, React Native, Redux, MongoDB y PostgreSQL.
+⭐Habilidades destacables para trabajo en equipo: Comunicación efectiva y colaboración en equipos de desarrollo.
+⭐Capacidad para liderar y coordinar proyectos exitosamente.
+⭐Amplio espectro de habilidades tecnológicas: HTML, CSS, JavaScript, Bootstrap y JWT.
 <br>
-
 ## Proyectos *bombitas*
 <table>
 <tr>
