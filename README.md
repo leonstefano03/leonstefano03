@@ -1,8 +1,9 @@
+<iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+ 
+<h1 align="center">Hola, soy Leon Stefano👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
