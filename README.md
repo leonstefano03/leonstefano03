@@ -3,7 +3,8 @@
  
  ![GIF](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
 
-<h1 align="center">Hola, soy Leon Stefano👋</h1>
+<h1 align="center">Hola! soy Leon Stefano👋 Bienvenido a mi GitHub</h1>
+<h2 align="center">Bienvenidos a mi GitHub</h2>
 </div>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
